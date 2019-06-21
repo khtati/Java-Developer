@@ -1,5 +1,5 @@
 # Java-Developer
-Reading from a file sentence.
-Using StringTokenizer and regular expression remove all special charactres 
-Split the sentence into parts
-Write to the new file output
+1. Reading from a file sentence.
+2. Using StringTokenizer and regular expression remove all special charactres. 
+3. Split the sentence into parts.
+4. Write to the new file output.
